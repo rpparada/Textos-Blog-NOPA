@@ -1,0 +1,13 @@
+#Hola
+##Prueba
+Hola Rodrigo Parada *tengo algo importante que decir*, este edito de texto es muy bueno y fácil de usar.
+
+***
+##Nuevo Subtítutlo
+Lista de cosas que hacer:
+
+- Cosa 1
+- Cosa 2
+- Cosa 3
+
+Me gusta mucho este editor.
