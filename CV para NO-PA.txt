@@ -1,0 +1,6 @@
+#Rodrigo Parada
+
+##La parte entretenida
+Completar aqui!!
+##La parte aburrida
+Mi nombre es Rodrigo Parada. Actualmente trabajo para Experian Chile (http://www.experian.cl/). Desde Chile nos encargamos de mantener las aplicaciones de Experian US. Desde el pinto de vista tecnológico, trabajo sobre plataformas IBM Mainframe Z/OS, utilizando los clásicos lenguajes de programación como lo son el Cobol y C. Desde el punto de vista funcional, mi principal actividad y mas destacada actividad (cuando digo "destacado" me refiero a la importancia que tiene este producto para Experian, en especial para la unidad Business Information Services, y cuando digo "destacaga", apunto a los ingresos que esta producto reporta a la compañía) es mantener la aplicación CRDB (mas información sobre este producto en el siguiente link https://www.experian.com/assets/business-information/brochures/7138_CRDB-Plus-PS.pdf).
